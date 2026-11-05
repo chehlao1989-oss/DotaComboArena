@@ -1,0 +1,13 @@
+app/.godot/
+app/export_presets.cfg
+.build-state/
+builds/
+work/
+*.zip
+*.log
+.env
+.env.*
+Thumbs.db
+.DS_Store
+docs/STATUS.md
+docs/OBSIDIAN_PENDING.md

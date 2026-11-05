@@ -1,0 +1,235 @@
+{
+  "schema": 2,
+  "hero_id": "phantom_assassin",
+  "name": "Phantom Assassin",
+  "portrait": "phantom_assassin_portrait.png",
+  "verified_at": "2026-11-02",
+  "source": "https://www.dota2.com/datafeed/herodata?hero_id=44&language=english",
+  "actions": {
+    "a1": {
+      "name": "Stifling Dagger",
+      "short": "Stifling Dagger",
+      "icon": "phantom_assassin_stifling_dagger.png",
+      "ability_name": "phantom_assassin_stifling_dagger",
+      "unlock": ""
+    },
+    "a2": {
+      "name": "Phantom Strike",
+      "short": "Phantom Strike",
+      "icon": "phantom_assassin_phantom_strike.png",
+      "ability_name": "phantom_assassin_phantom_strike",
+      "unlock": ""
+    },
+    "a3": {
+      "name": "Blur",
+      "short": "Blur",
+      "icon": "phantom_assassin_blur.png",
+      "ability_name": "phantom_assassin_blur",
+      "unlock": ""
+    },
+    "a4": {
+      "name": "Fan of Knives",
+      "short": "Fan of Knives",
+      "icon": "phantom_assassin_fan_of_knives.png",
+      "ability_name": "phantom_assassin_fan_of_knives",
+      "unlock": "scepter"
+    },
+    "i1": {
+      "name": "Предмет 1",
+      "short": "Предмет 1",
+      "icon": "black_king_bar.png"
+    },
+    "i2": {
+      "name": "Предмет 2",
+      "short": "Предмет 2",
+      "icon": "glimmer_cape.png"
+    },
+    "i3": {
+      "name": "Предмет 3",
+      "short": "Предмет 3",
+      "icon": "cyclone.png"
+    },
+    "i4": {
+      "name": "Предмет 4",
+      "short": "Предмет 4",
+      "icon": "blink.png"
+    },
+    "i5": {
+      "name": "Предмет 5",
+      "short": "Предмет 5",
+      "icon": "sheepstick.png"
+    },
+    "i6": {
+      "name": "Предмет 6",
+      "short": "Предмет 6",
+      "icon": "force_staff.png"
+    }
+  },
+  "passive_slots": {
+    "a5": {
+      "name": "Immaterial",
+      "short": "Immaterial",
+      "icon": "phantom_assassin_immaterial.png",
+      "ability_name": "phantom_assassin_immaterial"
+    },
+    "a6": {
+      "name": "Coup de Grace",
+      "short": "Coup de Grace",
+      "icon": "phantom_assassin_coup_de_grace.png",
+      "ability_name": "phantom_assassin_coup_de_grace"
+    }
+  },
+  "upgrade_order": [
+    "scepter",
+    "shard"
+  ],
+  "render": {
+    "atlas": "phantom_assassin_idle.png",
+    "columns": 8,
+    "cell": 256,
+    "fps": 15,
+    "frames": 34,
+    "emitter_uvs": [
+      [
+        0.3125,
+        0.445312
+      ],
+      [
+        0.3125,
+        0.449219
+      ],
+      [
+        0.316406,
+        0.453125
+      ],
+      [
+        0.316406,
+        0.472656
+      ],
+      [
+        0.355469,
+        0.476562
+      ],
+      [
+        0.359375,
+        0.484375
+      ],
+      [
+        0.359375,
+        0.488281
+      ],
+      [
+        0.355469,
+        0.488281
+      ],
+      [
+        0.355469,
+        0.472656
+      ],
+      [
+        0.3125,
+        0.464844
+      ],
+      [
+        0.3125,
+        0.460938
+      ],
+      [
+        0.308594,
+        0.445312
+      ],
+      [
+        0.308594,
+        0.441406
+      ],
+      [
+        0.308594,
+        0.441406
+      ],
+      [
+        0.3125,
+        0.441406
+      ],
+      [
+        0.3125,
+        0.441406
+      ],
+      [
+        0.3125,
+        0.445312
+      ],
+      [
+        0.3125,
+        0.445312
+      ],
+      [
+        0.3125,
+        0.449219
+      ],
+      [
+        0.316406,
+        0.460938
+      ],
+      [
+        0.316406,
+        0.46875
+      ],
+      [
+        0.359375,
+        0.472656
+      ],
+      [
+        0.359375,
+        0.480469
+      ],
+      [
+        0.363281,
+        0.488281
+      ],
+      [
+        0.359375,
+        0.484375
+      ],
+      [
+        0.355469,
+        0.476562
+      ],
+      [
+        0.367188,
+        0.488281
+      ],
+      [
+        0.308594,
+        0.453125
+      ],
+      [
+        0.3125,
+        0.445312
+      ],
+      [
+        0.308594,
+        0.441406
+      ],
+      [
+        0.308594,
+        0.441406
+      ],
+      [
+        0.3125,
+        0.441406
+      ],
+      [
+        0.3125,
+        0.441406
+      ],
+      [
+        0.3125,
+        0.445312
+      ]
+    ],
+    "facing": [
+      -1,
+      0.65
+    ]
+  }
+}
